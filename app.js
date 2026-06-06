@@ -5,3 +5,4 @@ console.log("This is javascript-2");
 console.log("This is javascript-3");
 console.log("This is javascript-4");
 console.log("This is javascript-5");
+console.log("This is javascript-6");
